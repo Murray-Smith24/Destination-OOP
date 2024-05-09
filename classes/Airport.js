@@ -1,4 +1,6 @@
-class Airport {
+const Plane = require("./Plane");
+
+class Airport extends Plane{
 
 
 }
